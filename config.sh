@@ -1,7 +1,5 @@
 #!/bin/bash
 
-inventory_file="inventory.csv"
-
 subscription_name="DEMO"
 environment_name="routers4p"
 location="westeurope"
